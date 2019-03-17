@@ -38,9 +38,9 @@ function fExists() {
     bCheckEnabled = true;
  
  	if (document.title == 'Clients'){
-		var code = '<a href="'+ img.src +'"><img src="'+ img.src +'"height="50" style="padding: 3px"></a>'
+		var code = '<a href="'+ img.src +'"><img src="'+ img.src +'"height="50" style="margin: 3px; border-style: solid; border-color: #23395b; border-width: 3px"></a>'
 	}else{
-		var code = '<a href="'+ img.src +'"><img src="'+ img.src +'"height="100" style="padding: 3px"></a>'
+		var code = '<a href="'+ img.src +'"><img src="'+ img.src +'"height="100" style="margin: 3px; border-style: solid; border-color: #23395b; border-width: 3px"></a>'
 	}
 	
 
