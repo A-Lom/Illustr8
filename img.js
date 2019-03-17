@@ -27,7 +27,7 @@ function loadImage() {
         img = new Image();
         img.onload = fExists;
         img.onerror = fDoesntExist;
-        img.src = 'images/'+ fileName+'/Renamed/img' + i + '.jpg';
+        img.src = 'images/'+ fileName+'/renamed/img' + i + '.jpg';
     }
 
 }
