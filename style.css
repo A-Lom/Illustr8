@@ -41,7 +41,7 @@ body {
 	font-family: 'Play', sans-serif;
 }
 
-@media (max-width: 650px){
+@media (max-width : 770px ){
 	body{
 		font-size: 2.2vw;
 	}
@@ -56,7 +56,7 @@ body {
 	}
 }
 
-@media (max-width: 300px){
+@media (max-width : 425px ){
 	body{
 		font-size: 3.2vw;
 	}
