@@ -1,8 +1,9 @@
 /*Title style*/
 .nav h1 a{
 	text-decoration: none;
-	color: #252627;
+	color: #ffffff;
 	padding-left: 10px;
+	padding-right: 30%;
 }
 /*nav bar code*/
 .nav {
@@ -12,31 +13,39 @@
 	margin-left: -8px;
 	margin-right: -8px;
 	margin-bottom: 10px;
+	padding-right: 10px;
 	justify-content: space-between;
 	align-items: center;
-	background-color: #59c9a5;
+	background-color: #4b88a2;
 }
 ul {
  	list-style-type: none;
 }
 .nav li a {
 	text-decoration: none;
-	color: #252627;
+	color: #ffffff;
 	font-size: 1.6vw;
+	transition: 0.3s
 }
 .nav li a:hover {
 	text-decoration: none;
 	font-size: 1.6vw;
-	color: #b9e3c6;
+	color: #d1d1d1;
+	transition: 0.3s
 }
 .nav li {
  	display: inline-block;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+/*Info section style*/
+.info{
+	width: 70%;
+	margin-left: 10%;
 }
 /*Rest of the page's code*/
 body {
-	background-color: #fffd98;
+	background-color: #d3d4d9;
  	font-size: 1.2vw;
 	font-family: 'Play', sans-serif;
 }
