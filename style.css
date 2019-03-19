@@ -25,13 +25,13 @@ ul {
 	text-decoration: none;
 	color: #ffffff;
 	font-size: 1.6vw;
-	transition: 0.3s
+	transition: 0.3s;
 }
 .nav li a:hover {
 	text-decoration: none;
 	font-size: 1.6vw;
 	color: #d1d1d1;
-	transition: 0.3s
+	transition: 0.3s;
 }
 .nav li {
  	display: inline-block;
