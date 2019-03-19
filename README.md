@@ -3,7 +3,7 @@ Illustr8.co.nz remake.
 
 Images
 ===
-©Copyright 2009 All images and concepts on the site are protected under international copyright laws. [More Info](http://illustr8.co.nz/).
+©Copyright 2019 All images and concepts on the site are protected under international copyright laws. [More Info](http://illustr8.co.nz/).
 
 I have permission by their creator to use in this project.
 
