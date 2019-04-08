@@ -30,7 +30,7 @@ ul {
 .nav li a:hover {
 	text-decoration: none;
 	font-size: 1.6vw;
-	color: #7678ED;
+	color: #000000;
 	transition: 0.3s;
 }
 .nav li {
@@ -52,6 +52,10 @@ body {
 }
 a {
 	color: #3D348B;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }
 
 @media (max-width : 770px ){
