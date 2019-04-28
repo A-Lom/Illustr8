@@ -45,7 +45,7 @@ ul {
 }
 /*Contact links style*/
 a {
-	color: #3D348B;
+	color: #0027B4;
 	text-decoration: none;
 }
 a:hover{
@@ -54,7 +54,7 @@ a:hover{
 
 /*Rest of the page's style*/
 body {
-	background-color: #F7B801;
+	background-color: #A499B3;
  	font-size: 1.2vw;
 	font-family: 'Work Sans', sans-serif;
 	color: #000000
